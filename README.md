@@ -13,4 +13,3 @@ Computer Vision Image manupulation techniques:
 - Contrast stretching  algorithm
 - Gamma correction
 - Niblack's and Sauvola's thresholding algorithms
-- 
